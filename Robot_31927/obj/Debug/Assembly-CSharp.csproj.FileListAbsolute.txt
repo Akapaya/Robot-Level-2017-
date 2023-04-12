@@ -1,0 +1,2 @@
+C:\Users\Akapaya\Documents\Robot_31927\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+I:\unity\Lvl1\Robot_31927\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
