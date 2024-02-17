@@ -1,28 +1,28 @@
-# Projeto Unity: Robot-Level-2018
+# Unity Project: Robot-Level-2018
 
-Bem-vindo ao meu repositório Unity, onde compartilho meu projeto desenvolvido como parte do curso técnico de programação de jogos digitais de 2018
+Welcome to my Unity repository, where I share my project developed as part of the 2018 digital game programming technical course
 
-## Descrição do Projeto
+## Project description
 
 ### Robot-Level-2018
-Conforme eu estava aprendendo programação e a utilização da Unity eu coloquei diversas mêcanicas em duas fases, como portais, mudança de gravidade, entre outros...
+As I was learning programming and how to use Unity, I put several mechanics in two phases, such as portals, gravity changes, among others...
 
 https://github.com/Akapaya/Robot-Level-2018-/assets/63330951/b0486f71-06eb-436b-b761-40490edc4642
 
-## Desafios e Conquistas Unity
-Este projeto um dos meus primeiros projetos feito no curso de programação de jogos digitais de 2018.
+## Unity Challenges and Achievements
+This project is one of my first projects done in the 2018 digital game programming course.
 
-## Tecnologias e Habilidades Demonstradas
+## Demonstrated Technologies and Skills
 
 - Unity3D
 - C#
 - 2D
 
-## Contato
+## Contact
 
-Sinta-se à vontade para entrar em contato comigo para discutir mais sobre este projeto ou colaborações futuras.
+Please feel free to contact me to discuss further about this project or future collaborations.
 
 - Email: gregory_valentim@hotmail.com
 - LinkedIn: [Gregory Valentim](https://www.linkedin.com/in/gregory-valentim/)
 
-Obrigado por explorar este projeto Unity.
+Thanks for exploring this Unity project.
